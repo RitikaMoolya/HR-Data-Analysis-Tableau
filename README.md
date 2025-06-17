@@ -7,7 +7,10 @@ The goal of this project is to perform a comprehensive analysis of HR data to un
 ---
 
 ## 📊 Dataset Used
+
 <a href="https://github.com/RitikaMoolya/HR-Data-Analysis-Tableau/blob/main/HR%20Data.xlsx">HR Dataset</a>
+
+---
 
 ## 📌 Key Questions (KPIs)
 
