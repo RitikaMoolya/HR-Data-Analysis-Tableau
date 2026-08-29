@@ -60,9 +60,15 @@ HR dataset containing employee details such as age, department, job role, educat
 
 The project includes:
 
-- **Dashboard 1:** Overall HR overview and attrition metrics.  
-- **Dashboard 2:** Analysis of business travel, education levels, and employee distribution.  
-- **Filtered Dashboard:** Specific insights when filtered by education level (e.g., Bachelor's Degree).
+- **Workforce Demographics & KPIs Dashboard:** Overall HR overview and attrition metrics.
+- <img width="1607" height="832" alt="Workforce Demographics   KPIs Dashboard" src="https://github.com/user-attachments/assets/65d74fd9-74b9-4c2a-a9fe-74306318bb33" />
+
+- **Compensation & Performance Analysis Dashboard:** Analysis of business travel, education levels, and employee distribution.
+- <img width="1586" height="807" alt="Compensation   Performance Analysis Dashboard" src="https://github.com/user-attachments/assets/4a26c891-7f94-4efb-b914-bc40009e9344" />
+
+- **Filtered Dashboards:** Specific insights when filtered by education level (e.g., Bachelor's Degree).
+<img width="1596" height="832" alt="Dashboard After Filtering" src="https://github.com/user-attachments/assets/2991364a-49eb-4e78-979a-2f58af7f824b" />
+<img width="1602" height="815" alt="Dashboard After Filtering 2" src="https://github.com/user-attachments/assets/d68b038d-0481-49f2-8d55-0a631f7b8fdd" />
 
 > Dashboards created in **Tableau** are intuitive, responsive, and designed for HR decision-makers.
 
