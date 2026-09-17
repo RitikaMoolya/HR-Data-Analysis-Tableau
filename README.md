@@ -85,6 +85,8 @@ The project includes:
 
 This HR Data Analytics project highlights key factors influencing employee attrition, such as department, age, education, and business travel. The Tableau dashboards provide clear, actionable insights to help HR teams make informed decisions. By identifying at-risk groups and trends, the organization can develop targeted strategies to improve retention, employee satisfaction, and overall workforce planning.
 
+---
+
 ## 👩‍💻 Author
 
 Ritika Moolya  
